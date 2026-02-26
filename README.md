@@ -17,7 +17,7 @@ Licensed under Apache License 2.0.
 
 Add to _build.gradle_:
 
-`compile 'com.github.barteksc:android-pdf-viewer:1.6.0'`
+`implementation 'com.github.mhiew:android-pdf-viewer:3.2.0-beta.3'`
 
 Library is available in jcenter repository, probably it'll be in Maven Central soon.
 
